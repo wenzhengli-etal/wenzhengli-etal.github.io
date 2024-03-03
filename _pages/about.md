@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. Candidate in [City and Regional Planning at Cornell Unversity](https://aap.cornell.edu/academics/department-city-and-regional-planning). My dissertation focuses on regional scale land use planning, with a particular interest in how planning institutions, regulatory environments and land use policies can effectuate more sustainable and equitable spatial patterns in both developed and developing countries. 
+
+My past and current research projects also involve the topics of sustainable development goals (SDGs), housing, regional science, and shared-use mobility in the US, European countries, China, and Africa. I extensively utilize quantitative analytical approaches in my research, including urban spatial data analytics, econometrics, GIS, and remote sensing. 
+
+Before join the Ph.D. program, I worked as a Project Assistant at the Tompkins County Department of Social Services, where I engaged in the [Mobility-as-a-Services (Maas) pilot project](https://learn.sharedusemobilitycenter.org/wp-content/uploads/Tompkins__SUMC_MOD-On-Ramp-Program-Lessons-Learned-Webinar_June-23-2020.pdf), funded by FTA and Shared-use Mobility Center (SUMC), to develop more affordable and equitable mobility options for socially vulnerable communities. I received my Master's in Regional Planning (MRP) from Cornell, focusing on green justice and evaluating non-valued goods using hedonic model.
+
 
 My personal website
 ======
