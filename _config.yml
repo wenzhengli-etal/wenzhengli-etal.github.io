@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wenzheng Li"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Wenzheng Li"
 description              : &description "personal description"
