@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Wenzheng Li"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Wenzheng Li"
 description              : &description "personal description"
 url                      : https://wenzhengli-etal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,14 +21,14 @@ repository               : "wenzhengli-etal/wenzhengli-etal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.jpg"
   name             : "Wenzheng Li"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate; wl563@cornell.edu"
   location         : "Ithaca, New York"
   employer         : "Cornell University"
   uri              : # URL
-  email            : "wl563@cornell.edy" 
+  email            : "wl563@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
