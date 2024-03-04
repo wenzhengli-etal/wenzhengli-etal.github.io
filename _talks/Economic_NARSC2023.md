@@ -8,4 +8,4 @@ date: 2023-11-17
 location: "San Diego, CA"
 ---
 
-Click [here](http://wenzhengli-etal.github.io/files/NARSC2023_GermanyPOlycentricity1.pdf) to access the presentation)
+Click [here](http://wenzhengli-etal.github.io/files/NARSC2023_GermanyPolycentricity1.pdf) to access the presentation)
