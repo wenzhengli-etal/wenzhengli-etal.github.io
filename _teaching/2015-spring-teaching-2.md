@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "TA, CRP 4080 Introduction to GIS"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course (4 credits)"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Cornell University, City and regional planning"
+date: 2022-08-01
+location: "Ithaca, Tompkins"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
