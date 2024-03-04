@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Presentation"
 permalink: /talks/2012-03-01-talk-1
 venue: "North America Regional Science Council (NARSC) Conference"
-date: 2023-11-19
+date: 2022-11-19
 location: "Montreal, Canada"
 ---
 
