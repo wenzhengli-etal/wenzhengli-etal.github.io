@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations and talks"
-    url: /pages/presentations and talks    
+  - title: "Talks"
+    url: /talks/    
     
   - title: "Working projects"
     url: /portfolio/
@@ -15,5 +15,3 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "News"
-    url: /
