@@ -8,5 +8,3 @@ citation: 'Schmidt, S., Li, W., Carruthers, J., & Siedentop, S. (2021). Planning
 ---
 
 This paper examines how national planning frameworks differ from each other and how those differences relate to patterns of urban development using an international cross section of metropolitan regions. We construct a composite index to measure institutional planning frameworks through objective criteria—restrictive versus permissive; binding versus nonbinding; nationally versus locally oriented—that enables comparison between (not within) countries. We also estimate a series of models to evaluate the relationship between institutional frameworks and patterns. The evidence suggests that a more centralized and coordinated planning framework produces more compact development, whereas a more decentralized and uncoordinated planning framework results in less compact development.
-
-![profile1](https://github.com/wenzhengli-etal/wenzhengli-etal.github.io/images/profile1.jpg)
