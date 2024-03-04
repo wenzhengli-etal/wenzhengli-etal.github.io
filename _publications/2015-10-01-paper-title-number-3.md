@@ -2,7 +2,7 @@
 title: "Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions"
 collection: publications
 excerpt: 
-date: 2023
+date: 2023-08-29
 venue: 'Environment and Planning A: Economy and Space'
 paperurl: 'http://academicpages.github.io/files/EPA.pdf'
 citation: 'Li, W., Schmidt, S., & Siedentop, S. (2023). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment and Planning A: Economy and Space, 0308518X231191943.'
