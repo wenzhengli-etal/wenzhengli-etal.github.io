@@ -2,12 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Current projects"
-    url: /current projects/
 
   - title: "Talks"
     url: /talks/    
+    
+  - title: "Current projects"
+    url: /current projects/
 
   - title: "Teaching"
     url: /teaching/    
