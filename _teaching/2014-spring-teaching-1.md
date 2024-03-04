@@ -1,5 +1,5 @@
 ---
-"Teaching Assistant (TA) CRP 1200 Introduction of Statistics for Urban Studies"
+title: "Teaching Assistant (TA) CRP 1200 Introduction of Statistics for Urban Studies"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching
