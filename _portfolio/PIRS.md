@@ -1,5 +1,5 @@
 ---
-title: "Li, Wenzheng, John I. Carruthers, Yuanshuo Xu. “The dynamic adjustment process of population and employment—evidence from Chinese prefectural regions."
+title: "Li, Wenzheng, John I. Carruthers, Yuanshuo Xu. 'The dynamic adjustment process of population and employment—evidence from Chinese prefectural regions.'"
 collection: publications
 ---
 
