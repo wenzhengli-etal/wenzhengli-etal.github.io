@@ -1,12 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "The rise and fall of the American pedestrian mall"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2031-04-01
+venue: 'Journal of Urbanism'
+paperurl: 'http://wenzhengli-etal.github.io/files/JOU.pdf'
+citation: 'Matuke, S., Schmidt, S., & Li, W. (2021). The rise and fall of the American pedestrian mall. Journal of Urbanism: International Research on Placemaking and Urban Sustainability, 14(2), 129-144.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This research provides a historical analysis of the American experiment with pedestrian malls. Specifically, we ask why some pedestrian malls have failed and were reopened to vehicular traffic while others have succeeded. Over 120 post-war malls from across the United States are statistically analysed, examining the relationship between the mall’s lifespan and a variety of geographic, demographic, and economic factors. Using a Cox proportional hazard model, we find that cities’ population density, the median age of the residents, the percent of the population that is white, proximity to beach, whether or not the City is a tourism destination, length of the mall, and the percent of sunny days are all significant in explaining a pedestrian mall’s longevity. In addition, we also examine qualitative, design-based characteristics in order to better understand why certain pedestrian malls, despite their locational disadvantages, have thrived to the present day.
