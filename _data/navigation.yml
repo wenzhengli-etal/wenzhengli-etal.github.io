@@ -2,15 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Current projects"
+    url: /Current projects/
 
   - title: "Presentations"
     url: /Presentations/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
     
   - title: "CV"
     url: /cv/
