@@ -1,7 +1,6 @@
 ---
 title: "Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 
 date: 2023
 venue: 'Environment and Planning A: Economy and Space'
