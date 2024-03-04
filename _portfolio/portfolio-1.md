@@ -1,8 +1,8 @@
 ---
 title: "Li, Wenzheng, Stephan Schmidt. “The spatial-temporal evolution toward polycentricity in Chinese cities: dynamics and explanations."
 collection: publications
-venue: 'Under reviewed in Growth and Change'
 ---
+Under reviewed in Growth and Change
 
 <br/><img src='/images/GROW.jpg'>
 
