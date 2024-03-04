@@ -9,4 +9,4 @@ location: "San Diego, CA"
 ---
 
 
-Click [here](http://wenzhengli-etal.github.io/files/NARSC2023_China_Polycentricity.pdf) to access the presentation)
+Click [here](http://wenzhengli-etal.github.io/files/NARSC2023_ChinaPolycentricity.pdf) to access the presentation)
