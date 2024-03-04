@@ -1,12 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Planning Institutions and Urban Spatial Patterns: Evidence from a Cross-National Analysis"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: 
+excerpt: 'This paper examines how national planning frameworks differ from each other and how those differences relate to patterns of urban development using an international cross section of metropolitan regions. We construct a composite index to measure institutional planning frameworks through objective criteria—restrictive versus permissive; binding versus nonbinding; nationally versus locally oriented—that enables comparison between (not within) countries. We also estimate a series of models to evaluate the relationship between institutional frameworks and patterns. The evidence suggests that a more centralized and coordinated planning framework produces more compact development, whereas a more decentralized and uncoordinated planning framework results in less compact development.'
+date: 2021-09-01
+venue: 'Journal of Planning Education and Research'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Schmidt, S., Li, W., Carruthers, J., & Siedentop, S. (2021). Planning institutions and urban spatial patterns: Evidence from a cross-national analysis. Journal of Planning Education and Research, 0739456X211044203.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
