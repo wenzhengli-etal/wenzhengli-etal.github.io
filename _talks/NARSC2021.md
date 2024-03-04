@@ -2,7 +2,7 @@
 title: "Vertical housing gradients—evidence from Beijing"
 collection: talks
 type: "Conference Presentation"
-permalink: /talks/2012-03-01-talk-1
+permalink:
 venue: " NARSC Conference"
 date: 2021-11-07
 location: "Denver, Colorado"
