@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Place attachment, regional identity and perceptions of urbanization in Moshi, Tanzania."
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
