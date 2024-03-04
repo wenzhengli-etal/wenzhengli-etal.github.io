@@ -8,6 +8,5 @@ date: 2023-11-16
 location: "San Diego, CA"
 ---
 
-[More information here](http://exampleurl.com)
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Click [here](http://wenzhengli-etal.github.io/files/NARSC2023_China_Polycentricity.pdf) to access the presentation)
