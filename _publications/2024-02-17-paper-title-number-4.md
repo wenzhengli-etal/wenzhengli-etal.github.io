@@ -1,7 +1,6 @@
 ---
 title: "Can spatial patterns mitigate the urban heat island effect? Evidence from German metropolitan regions"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 
 date: 2024-02-17
 venue: 'Environment and Planning B: Urban Analytics and City Science'
