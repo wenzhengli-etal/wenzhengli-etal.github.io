@@ -250,19 +250,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _current projects
   - scope:
       path: ""
-      type: portfolio
+      type: current projects
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _presentations
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
       layout: talk
       author_profile: true
