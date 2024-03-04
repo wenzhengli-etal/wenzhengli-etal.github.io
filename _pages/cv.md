@@ -9,37 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+My CV is available [here]()
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in City and Regional Planning, Cornell University, 2024 (expected)
+* Master of Regional Planning (MRP), Cornell University, 2018
+* B.S. in Remote Sensing, China University of Geosciences, 2016
 
-Work experience
+Fields of Interest
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Topics**: climate change, sustainable development, urban spatial pattern, land use planning, regional planning, policy, and governance, regional science, urban and environmental economics, housing; shared-use mobility; mobility-as-a-service (MaaS) 
+* **Methods**: urban data science, statistics, applied econometrics, machine learning, GIS, Remote Sensing 
+* **Study areas**: Europe, United States, Africa, China 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Previous work experience
+======
+* 2018-2019: Transportation Planner
+  * Tompkins County Department of Social Services (DSS)
+  * Supervisor: Dwight Mengel
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-2016: GIS/Remote Sensing Analyst
+  * ToolGeo Technology Co.Ltd.
   
-Skills
+Softwares and Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, R, Stata, C++, Google Earth Engine (GEE), ArcGI, QGIS, ENVI, etc.
+
+Service to Academy
+======
+* Moderator and Discussant:
+  * IACP Conference
+  * NARSC Conference
+* Peer reviewer for the following journals:
+  * Applied Geography
+  * Growth and Change
+  * Cities
 
 Publications
 ======
