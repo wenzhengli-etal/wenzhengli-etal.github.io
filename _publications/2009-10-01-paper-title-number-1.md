@@ -1,7 +1,7 @@
 ---
 title: "The rise and fall of the American pedestrian mall"
 collection: publications
-date: 2031-04-01
+date: 2021-04-01
 venue: 'Journal of Urbanism'
 paperurl: 'http://wenzhengli-etal.github.io/files/JOU.pdf'
 citation: 'Matuke, S., Schmidt, S., & Li, W. (2021). The rise and fall of the American pedestrian mall. Journal of Urbanism: International Research on Placemaking and Urban Sustainability, 14(2), 129-144.'
