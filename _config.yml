@@ -207,7 +207,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  presentations and talks:
+  talks:
     output: true
     permalink: /:collection/:path/
 
