@@ -22,9 +22,9 @@ repository               : "wenzhengli-etal/wenzhengli-etal.github.io"
 author:
   # Biographic information
   avatar           : "profile1.jpg"
-  name             : "Wenzheng Li"
+  name             : "Wenzheng Li, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate; wl563@cornell.edu"
+  bio              : "Visiting Lecturer; wl563@cornell.edu"
   location         : "Ithaca, New York"
   employer         : "Cornell University"
   uri              : # URL
