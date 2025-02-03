@@ -1,5 +1,5 @@
 ---
-title: "Zhang, Ziye, Wenzheng Li, Yan Wu. 'Vertical Price Curve in the Beijing Residential Housing Market.'"
+title: "Working Paper: Wenzheng Li, Zhang, Ziye, Yan Wu. 'Vertical Price Curve in the Beijing Residential Housing Market.'"
 collection: publications
 ---
 
