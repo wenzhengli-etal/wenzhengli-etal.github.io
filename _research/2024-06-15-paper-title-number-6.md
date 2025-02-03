@@ -3,7 +3,7 @@ title: "Place attachment, regional identity and perceptions of urbanization in M
 collection: research
 date: 2024-06-13
 venue: 'Habitat International'
-paperurl: 'http://wenzhengli-etal.github.io/files/EPB.pdf'
+paperurl: 'http://wenzhengli-etal.github.io/files/Schmidt - 2024 - Place attachment, regional identity and perception.pdf'
 citation: 'Schmidt, S., Nuhu, S., Thomas, R., & Li, W. (2024). Place attachment, regional identity and perceptions of urbanization in Moshi, Tanzania. Habitat International, 150, 103132.' 
 ---
 
