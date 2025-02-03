@@ -1,6 +1,6 @@
 ---
 title: "The spatial‐temporal evolution of urban development patterns in Chinese cities: Dynamics and interpretations"
-collection: publications
+collection: research
 date: 2024-05-03
 venue: 'Growth and Change'
 paperurl: 'http://wenzhengli-etal.github.io/files/EPB.pdf'

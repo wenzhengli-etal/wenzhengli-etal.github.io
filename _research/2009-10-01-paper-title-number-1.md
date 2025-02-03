@@ -1,6 +1,6 @@
 ---
 title: "The rise and fall of the American pedestrian mall"
-collection: publications
+collection: research
 date: 2021-04-01
 venue: 'Journal of Urbanism'
 paperurl: 'http://wenzhengli-etal.github.io/files/JOU.pdf'

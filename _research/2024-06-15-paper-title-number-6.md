@@ -1,6 +1,6 @@
 ---
 title: "Place attachment, regional identity and perceptions of urbanization in Moshi, Tanzania"
-collection: publications
+collection: research
 date: 2024-06-13
 venue: 'Habitat International'
 paperurl: 'http://wenzhengli-etal.github.io/files/EPB.pdf'

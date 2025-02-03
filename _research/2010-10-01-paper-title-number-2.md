@@ -1,6 +1,6 @@
 ---
 title: "Planning Institutions and Urban Spatial Patterns: Evidence from a Cross-National Analysis"
-collection: publications
+collection: research
 date: 2021-09-01
 venue: 'Journal of Planning Education and Research'
 paperurl: 'http://wenzhengli-etal.github.io/files/JPER.pdf'
