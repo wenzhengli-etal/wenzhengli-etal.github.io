@@ -11,7 +11,10 @@ main:
     
   - title: "Working projects"
     url: /portfolio/
+<<<<<<< HEAD
 
+=======
+>>>>>>> d6f49db90691d6585ac62bc157fe5fda0a3527a8
     
   - title: "CV"
     url: /cv/
