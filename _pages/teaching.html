@@ -5,8 +5,20 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<h2>My Teaching Portfolio</h2>
+<p>Below are courses I have taught, with links to repositories and course resources:</p>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+  {% for post in site.teaching reversed %}
+    <li>
+      <h3><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
+      <p>{{ post.type }} - {{ post.location }}</p>
+      {% if post.github %}
+        <a href="{{ post.github }}" target="_blank">GitHub Repository</a>
+      {% endif %}
+      {% if post.website %}
+        | <a href="{{ post.website }}" target="_blank">Course Website</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
