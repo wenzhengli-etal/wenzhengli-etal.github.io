@@ -1,1 +1,20 @@
+---
+title: "CRP 4080/5080: Introduction to GIS for Urban Planners"
+collection: teaching
+type: "Fall 2024 (4 credits)"
+permalink: /teaching/Fall2024-intro-GIS
+venue: "City and Regional Planning, Cornell University"
+date: 2024-08-26
+location: "Ithaca, New York"
+github: "https://github.com/wenzhengli-etal/IntroGIS_4080_5080"
+website: "https://wenzhengli-etal.github.io/IntroGIS_4080_5080"
+---
 
+**Course Description**
+
+Welcome to the world of spatial analysis and geographic information systems (GIS). Throughout history, humans have relied on maps for information, and in today’s era of big data, spatial intelligence has become indispensable for making everyday decisions. Advanced technology now enables us to use GIS and spatial analysis to solve complex, location-based problems. This course will teach you how to use these tools for both basic and advanced spatial analysis.
+This course will provide a conceptual understanding of geographic information systems (GIS) and sciences, and practical hands-on experience with GIS software applied to real-world planning practice and research. During the first half of the course, we will learn the basic concepts, structures, and functions of GIS as well as their applications and limitations. Topics may include thematic mapping; projections and coordinate systems; geoprocessing; onscreen digitizing and editing; spatial data management; raster and vector data models; and sources of geospatial data.
+In the second half of the course, we will introduce several applied case studies and spatial analysis techniques applicable to planning practice, including a site suitability analysis using Model builder, an environmental justice analysis using census data, an introduction to spatial autocorrelation and spatial statistics, and interactive web mapping using Arc StoryMaps.
+The course will include a midterm quiz, the purpose being to test conceptual knowledge of GIS, and a final project, which will involve spatial analysis of a planning related problem of the students own choosing. Although there are no prerequisites, students are expected to have basic computer operating skills and are familiar with spreadsheet software which assists in processing data for use in GIS. <br/>
+
+[Syllabus](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680/raw/main/Syllabus/intro_urban_data_science_syllabus_spr2025_final.pdf) | [Course Website](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680)
