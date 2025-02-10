@@ -16,5 +16,6 @@ This course introduces the principles of urban data science, covering Python, da
 - **Time**: Tuesdays and Thursdays, 8:40 – 9:55 am
 - **Lab**: Thursdays, 4:45 – 5:35 pm
 - **Location**: Sibley Hall 101
-- [GitHub Repository](https://github.com/wenzhengli-etal/UrbanDataScience_4580_5680)
+- [GitHub Repository](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680)
 - [Course Website](https://wenzhengli-etal.github.io/UrbanDataScience_4580_5680)
+ 
