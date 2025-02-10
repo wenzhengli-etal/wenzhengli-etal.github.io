@@ -10,12 +10,15 @@ github: "https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680"
 website: "https://wenzhengli-etal.github.io/UrbanDataScience_4680_5680"
 ---
 
-This course introduces the principles of urban data science, covering Python, data analysis, visualization, and machine learning.
+**Course Description**
+
+Urban data science is an emergent practice in geography and urban planning that combines: 1) the set of data analysis tools and methods used to understand a wide array of big data and big spatial data sources and, 2) questions of urban development, structure, complexity, theory, policy, dynamics, and outcomes. These approaches enable more spatiotemporally dynamic and granular analyses of cities and allows researchers new insight into urban dynamics.
+
+This course will provide a toolkit to speak through data, code, statistics, and visualization. Using open-source data and computational tools in Python and the Jupyter Notebook environment, we will learn how to design testable research questions, collect and prepare data, apply relevant analytical techniques, present our process and results in an engaging and informative way, and identify the limitations of quantitative analysis. A personal laptop will be required.
 
 - **Instructor**: Wenzheng Li
 - **Time**: Tuesdays and Thursdays, 8:40 – 9:55 am
 - **Lab**: Thursdays, 4:45 – 5:35 pm
 - **Location**: Sibley Hall 101
-- [GitHub Repository](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680)
-- [Course Website](https://wenzhengli-etal.github.io/UrbanDataScience_4680_5680)
+- **Find course materials at**: [UrbanDataScience_4680_5680](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680)
  
