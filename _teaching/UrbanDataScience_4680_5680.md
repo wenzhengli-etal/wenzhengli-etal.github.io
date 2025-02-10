@@ -20,5 +20,5 @@ This course will provide a toolkit to speak through data, code, statistics, and 
 - **Time**: Tuesdays and Thursdays, 8:40 – 9:55 am
 - **Lab**: Thursdays, 4:45 – 5:35 pm
 - **Location**: Sibley Hall 101
-- **Find course materials at**: [UrbanDataScience_4680_5680](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680)
- 
+- **Syllabus**: [UrbanDataScience_4680_5680](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680)
+- **Course Website**: [UrbanDataScience_4680_5680](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680)
