@@ -13,10 +13,6 @@ author_profile: true
     <li>
       <h3><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
       <p>{{ post.type }} - {{ post.location }}</p>
-      
-      {% if post.github %}
-        <a href="{{ post.github }}" target="_blank">GitHub Repository</a>
-      {% endif %}
 
       {% if post.website %}
         | <a href="{{ post.website }}" target="_blank">Course Website</a>
