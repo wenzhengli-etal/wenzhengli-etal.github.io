@@ -244,8 +244,15 @@
   }
 }
 
-/* Reduce font size for Research page only */
-.page-research {
-    font-size: 10px;  /* Adjust size as needed */
-    line-height: 1.5;
+/* Reduce font size for research paper titles */
+.page-research h3, 
+.page-research a {
+    font-size: 14px; /* Adjust as needed */
+    font-weight: normal; /* Makes it look like body text */
+}
+
+/* Ensure the links match other text styles */
+.page-research a {
+    text-decoration: underline; /* Optional: Keep underlined */
+    color: inherit; /* Match body text color */
 }
