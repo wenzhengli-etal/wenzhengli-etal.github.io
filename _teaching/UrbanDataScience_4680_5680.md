@@ -6,8 +6,8 @@ permalink: /teaching/spring2025-intro-urban-data-science
 venue: "City and Regional Planning, Cornell University"
 date: 2025-01-01
 location: "Ithaca, New York"
-github: "https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680"
-website: "https://wenzhengli-etal.github.io/UrbanDataScience_4680_5680"
+syllabus: "https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680/raw/main/Syllabus/intro_urban_data_science_syllabus_spr2025_final.pdf"
+website: "https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680"
 ---
 
 **Course Description**
