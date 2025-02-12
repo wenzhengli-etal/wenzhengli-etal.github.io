@@ -6,7 +6,7 @@ permalink: /teaching/spring2025-WebGIS-Countermapping
 venue: "City and Regional Planning, Cornell University"
 date: 2024-10-01
 location: "Ithaca, New York"
-syllabus: "https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280/raw/main/Syllabus/mapping_countermapping_syllabus_fall24.pdf"
+syllabus: "https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280/raw/main/Syllabus/mapping_countermapping_syllabus_fall24_final.pdf"
 website: "https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280"
 ---
 
@@ -29,4 +29,4 @@ In this course, we will develop tools to build a multi-perspective question, arg
 4️⃣ Clearly communicate spatial narrative through mapmaking, contextualization, textual description, and presentation that demonstrates multiple ways of understanding a spatial question in urban development  
  <br/>
 
-[Syllabus](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280/raw/main/Syllabus/mapping_countermapping_syllabus_fall24.pdf) | [Course Website](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280)
+[Syllabus](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280/raw/main/Syllabus/mapping_countermapping_syllabus_fall24_final.pdf) | [Course Website](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280)
