@@ -15,7 +15,7 @@ website: "https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280"
 ## 📌 Course Description  
 This hybrid practice-discourse course introduces students to the ideas, debates, and practices in critical cartography and digital geography. How, who, and towards what purposes are spatial relationships represented through maps?  
 
-We will approach mapping through the lens of countermapping, an approach that challenges dominant narratives by making visible the perspectives, claims, and epistemologies that are often overlooked. Alongside this, we will explore how emerging mapping technologies and big data are reshaping the field—raising new possibilities but also reinforcing existing power dynamics.
+We will approach mapping through the lens of countermapping, an approach that challenges dominant narratives by making visible the perspectives, claims, and epistemologies that are often excluded. Alongside this, we will explore how emerging mapping technologies and big data are reshaping the field—raising new possibilities but also reinforcing existing power dynamics.
 
 Students will critically analyze and deconstruct maps, assessing their design, data sources, and underlying assumptions. Through hands-on labs, we will develop practical skills in web and cloud-based mapping tools, using platforms like Mapbox GL, ArcGIS Online, and CartoDB to create interactive, narrative-driven maps. The course culminates in a self-directed final project, where students will apply these skills to investigate a spatial question of their choice.
 
