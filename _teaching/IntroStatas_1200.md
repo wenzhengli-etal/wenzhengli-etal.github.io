@@ -1,7 +1,7 @@
 ---
 title: "CRP 1200: Introduction to Statistics for Urban Studies"
 collection: teaching
-type: "Fall 2024 (3 credits)"
+type: "Spring 2025 (3 credits)"
 permalink: /teaching/Spring2025-intro-Statas
 venue: "City and Regional Planning, Cornell University"
 date: 2025-01-01
