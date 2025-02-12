@@ -12,8 +12,21 @@ website: "https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280"
 
 **Course Description**
 
-Urban data science is an emergent practice in geography and urban planning that combines: 1) the set of data analysis tools and methods used to understand a wide array of big data and big spatial data sources and, 2) questions of urban development, structure, complexity, theory, policy, dynamics, and outcomes. These approaches enable more spatiotemporally dynamic and granular analyses of cities and allows researchers new insight into urban dynamics.
+## 📌 Course Description  
+This hybrid practice-discourse course introduces students to the ideas, debates, and practices in critical cartography and digital geography. How, who, and towards what purposes are spatial relationships represented through maps?  
 
-This course will provide a toolkit to speak through data, code, statistics, and visualization. Using open-source data and computational tools in Python and the Jupyter Notebook environment, we will learn how to design testable research questions, collect and prepare data, apply relevant analytical techniques, present our process and results in an engaging and informative way, and identify the limitations of quantitative analysis. A personal laptop will be required. <br/>
+We will approach mapping through the lens of countermapping, an approach that challenges dominant narratives by making visible the perspectives, claims, and epistemologies that are often overlooked. Alongside this, we will explore how emerging mapping technologies and big data are reshaping the field—raising new possibilities but also reinforcing existing power dynamics.
+
+Students will critically analyze and deconstruct maps, assessing their design, data sources, and underlying assumptions. Through hands-on labs, we will develop practical skills in web and cloud-based mapping tools, using platforms like Mapbox GL, ArcGIS Online, and CartoDB to create interactive, narrative-driven maps. The course culminates in a self-directed final project, where students will apply these skills to investigate a spatial question of their choice.
+
+---
+
+## 🎯 Learning Objectives and Outcomes  
+In this course, we will develop tools to build a multi-perspective question, argument, and narrative through map-making. These consist not only of the software, platforms, and code you will learn but also the theory and frameworks that support your research. The core learning objectives are:  
+
+1️⃣ Examine the discourses, tensions, and power dynamics in mapping and countermapping epistemologies;
+3️⃣ Develop foundational skills in web/cloud-based GIS platforms (e.g., Mapbox GL, Felt, CatroDB, etc) and web technologies (HTML/CSS/JS) for interactive mapping. 
+4️⃣ Clearly communicate spatial narrative through mapmaking, contextualization, textual description, and presentation that demonstrates multiple ways of understanding a spatial question in urban development  
+ <br/>
 
 [Syllabus](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280/raw/main/Syllabus/mapping_countermapping_syllabus_fall24.pdf) | [Course Website](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280)
