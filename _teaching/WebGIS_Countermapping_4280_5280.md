@@ -1,10 +1,10 @@
 ---
 title: "CRP/DESIGN 4280/5280: WebGIS and Countermapping"
 collection: teaching
-type: "Spring 2025 (3 credits)"
+type: "Fall 2024 (3 credits)"
 permalink: /teaching/spring2025-WebGIS-Countermapping
 venue: "City and Regional Planning, Cornell University"
-date: 2025-01-01
+date: 2024-01-01
 location: "Ithaca, New York"
 syllabus: "https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280/raw/main/Syllabus/mapping_countermapping_syllabus_fall24.pdf"
 website: "https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280"
