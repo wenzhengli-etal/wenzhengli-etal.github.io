@@ -22,15 +22,13 @@ At Cornell, I teach a series of **quantitative and spatial analysis courses** th
 
 ## Research Interests
 
-My research focuses on **regional-scale land use planning and governance**, examining how **planning institutions, regulatory frameworks, and land use policies** shape **sustainable and equitable spatial development**. I am particularly interested in **polycentric urban development**, assessing its impacts on:
-
 My research focuses on regional-scale land use planning and governance, with a particular interest in how planning institutions, regulatory environments, and land use policies can effectuate more sustainable and equitable spatial patterns in both developed and developing countries. My dissertation studied regional polycentricity, with an emphasis on the impacts of polycentric development & policy on 
 
-- **economic development & regional disparities**
-- **quality of life, commuting patterns, and accessibility to public services**
-- **Environmental sustainability**, including urban heat island effect and air pollution.
+- economic development & regional disparities
+- quality of life, commuting patterns, and accessibility to public services
+- environmental sustainability, including urban heat island effect and air pollution.
 
-Methodologically, my work integrates **GIS/remote sensing, spatial econometrics, and urban data analytics** to explore urban dynamics at different spatial scales across diverse global contexts.
+Methodologically, my work integrates GIS/remote sensing, spatial econometrics, and urban data analytics to explore urban dynamics at different spatial scales across diverse global contexts.
 
 #### Current Research Projects
 - **Sustainable Urban Forms in Sub-Saharan Africa** – Investigating how different urban development patterns impact environmental sustainability and equity in Sub-Saharan Africa cities.  
@@ -41,4 +39,4 @@ Methodologically, my work integrates **GIS/remote sensing, spatial econometrics,
 
 Before my Ph.D., I worked as a Project Assistant at the Tompkins County Department of Social Services, contributing to the [Mobility-as-a-Services (Maas) pilot project](https://learn.sharedusemobilitycenter.org/wp-content/uploads/Tompkins__SUMC_MOD-On-Ramp-Program-Lessons-Learned-Webinar_June-23-2020.pdf), funded by the Federal Transit Administration (FTA) and the Shared-Use Mobility Center (SUMC). My work focused on developing more equitable and affordable multi-modal mobility solutions for socially vulnerable communities, including older adults, individuals with disabilities, and low-income populations.
 
-I hold a **Master’s in Regional Planning (MRP) from Cornell University**, where my research focused on green justice and non-market environmental valuation using hedonic modeling.
+I hold a Master’s in Regional Planning (MRP) from Cornell University, where my research focused on green justice and non-market environmental valuation using hedonic modeling.
