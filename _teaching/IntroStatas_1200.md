@@ -4,7 +4,7 @@ collection: teaching
 type: "Spring 2025 (3 credits)"
 permalink: /teaching/Spring2025-intro-Statas
 venue: "City and Regional Planning, Cornell University"
-date: 2025-01-01
+date: 2025-01-02
 location: "Ithaca, New York"
 syllabus: "https://github.com/wenzhengli-etal/IntroStatas_1200/raw/main/Syllabus/CRP1200_syllabus_sp2025.pdf"
 ---
