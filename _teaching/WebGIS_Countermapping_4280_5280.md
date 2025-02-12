@@ -4,7 +4,7 @@ collection: teaching
 type: "Fall 2024 (3 credits)"
 permalink: /teaching/spring2025-WebGIS-Countermapping
 venue: "City and Regional Planning, Cornell University"
-date: 2024-01-01
+date: 2024-10-01
 location: "Ithaca, New York"
 syllabus: "https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280/raw/main/Syllabus/mapping_countermapping_syllabus_fall24.pdf"
 website: "https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280"
