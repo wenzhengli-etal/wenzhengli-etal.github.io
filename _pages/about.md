@@ -7,12 +7,38 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Lecturer in the Department of City and Regional Planning at Cornell Unversity. I earned my Ph.D. in City and Regional Planning from Cornell in August 2024.
+I am a Visiting Lecturer in the Department of City and Regional Planning at Cornell University (see [my profile](https://aap.cornell.edu/people/wenzheng-li)). I earned my Ph.D. in City and Regional Planning from Cornell in August 2024.
 
-As a lecturer, I teach a series of quantitative courses at Cornell CRP that equip undergraduate and graduate students in urban planning with spatial data analysis skills and the ability to integrate emerging technology (e.g., GeoAI, machine learning) with theory to address urban and regional issues. My courses include Intro to GIS (CRP 4080/5080), Urban Data Science (CRP 4680/5680, DESIGN 4680/5680), Mapping and Counter-mapping (CRP 4280/5280, co-taught with Prof. Wenfei Xu), Neighborhood Change and Quantitative Methods (CRP 2100, co-taught with Prof. Wenfei Xu), and Intro to Stats (CRP 1200). 
+## Teaching and Courses
 
-My research focuses on regional-scale land use planning and governance, with a particular interest in how planning institutions, regulatory environments, and land use policies can effectuate more sustainable and equitable spatial patterns in both developed and developing countries. I am currently studying regional polycentricity, with an emphasis on the impacts of polycentric development on economic development, regional disparities, quality of life, and environmental sustainability (e.g., urban heat island effect, air pollution, and commuting patterns). I extensively combines GIS/remote sensing, econometrics, and urban data analytics in research. 
+At Cornell, I teach a series of **quantitative and spatial analysis courses** that equip undergraduate and graduate students with the skills to analyze urban and regional challenges using GIS, spatial data science, econometrics, and machine learning. My teaching emphasizes the integration of emerging technologies (e.g., GeoAI, remote sensing, machine learning) with urban planning theories to address issues such as urbanization, equity, and environmental sustainability.
 
-My ongoing research projects include:  (1) examining sustainable urban forms in Sub-Saharan African cities; (2) analyzing regional cooperation and coordination in Chinese and USA metropolitan regions; (3) and assessing the value of environmental amenities (e.g., green space and clean water) in areas facing rapid environmental degradation. 
+#### My courses include:
+- [Introduction to GIS (CRP 4080/5080)](https://github.com/wenzhengli-etal/IntroGIS_4080_5080) – Fundamentals of GIS for spatial analysis and urban planning.  
+- [Intro to Urban Data Science (CRP 4680/5680, DESIGN 4680/5680)](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680)** – Applications of data science in urban planning and design.  
+- [Mapping and Counter-mapping (CRP 4280/5280)](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280) (co-taught with Prof.Wenfei Xu) – Web & Cloud-based GIS and countermapping.  
+- **Neighborhood Change and Quantitative Methods (CRP 2100)** (co-taught with Prof.Wenfei Xu) – Statistical techniques for analyzing housing and neighborhood change.  
+- **Introduction to Statistics for Urban Studies (CRP 1200)** – Statistical foundations for urban and regional studies for undergraduates.  
 
-Before my Ph.D., I worked as a Project Assistant at the Tompkins County Department of Social Services, where I contributed to the [Mobility-as-a-Services (Maas) pilot project](https://learn.sharedusemobilitycenter.org/wp-content/uploads/Tompkins__SUMC_MOD-On-Ramp-Program-Lessons-Learned-Webinar_June-23-2020.pdf), funded by FTA and Shared-use Mobility Center (SUMC), to develop more affordable and equitable multi-modal mobility options for socially vulnerable communities. I hold a Master's in Regional Planning (MRP) from Cornell, where my research focused on green justice and evaluating non-market environment goods using hedonic model.
+## Research Interests
+
+My research focuses on **regional-scale land use planning and governance**, examining how **planning institutions, regulatory frameworks, and land use policies** shape **sustainable and equitable spatial development**. I am particularly interested in **polycentric urban development**, assessing its impacts on:
+
+My research focuses on regional-scale land use planning and governance, with a particular interest in how planning institutions, regulatory environments, and land use policies can effectuate more sustainable and equitable spatial patterns in both developed and developing countries. My dissertation studied regional polycentricity, with an emphasis on the impacts of polycentric development & policy on 
+
+- **economic development & regional disparities**
+- **quality of life, commuting patterns, and accessibility to public services**
+- **Environmental sustainability**, including urban heat island effect and air pollution.
+
+Methodologically, my work integrates **GIS/remote sensing, spatial econometrics, and urban data analytics** to explore urban dynamics at different spatial scales across diverse global contexts.
+
+#### Current Research Projects
+- **Sustainable Urban Forms in Sub-Saharan Africa** – Investigating how different urban development patterns impact environmental sustainability and equity in Sub-Saharan Africa cities.  
+- **Regional Cooperation and Governance in China and the U.S.** – Analyzing governance mechanisms and their influence on urban-regional coordination.  
+- **Valuation of Environmental Amenities** – Assessing how clean water and air quality contribute to social well-being in areas experiencing environmental degradation.
+  
+## Professional Background
+
+Before my Ph.D., I worked as a Project Assistant at the Tompkins County Department of Social Services, contributing to the [Mobility-as-a-Services (Maas) pilot project](https://learn.sharedusemobilitycenter.org/wp-content/uploads/Tompkins__SUMC_MOD-On-Ramp-Program-Lessons-Learned-Webinar_June-23-2020.pdf), funded by the Federal Transit Administration (FTA) and the Shared-Use Mobility Center (SUMC). My work focused on developing more equitable and affordable multi-modal mobility solutions for socially vulnerable communities, including older adults, individuals with disabilities, and low-income populations.
+
+I hold a **Master’s in Regional Planning (MRP) from Cornell University**, where my research focused on green justice and non-market environmental valuation using hedonic modeling.
