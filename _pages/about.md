@@ -17,7 +17,7 @@ At Cornell, I teach a series of **quantitative and spatial analysis courses** th
 - [Introduction to GIS (CRP 4080/5080)](https://github.com/wenzhengli-etal/IntroGIS_4080_5080) – Fundamentals of GIS for spatial analysis and urban planning.  
 - [Intro to Urban Data Science (CRP 4680/5680, DESIGN 4680/5680)](https://github.com/wenzhengli-etal/UrbanDataScience_4680_5680)** – Applications of data science in urban planning and design.  
 - [Mapping and Counter-mapping (CRP 4280/5280)](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280) (co-taught with Prof.Wenfei Xu) – Web & Cloud-based GIS and countermapping.  
-- **Neighborhood Change and Quantitative Methods (CRP 2100)** (co-taught with Prof.Wenfei Xu) – Statistical techniques for analyzing housing and neighborhood change.  
+- **Neighborhood Change and Quantitative Methods (CRP 2100)** (co-taught with Prof.Wenfei Xu) – Housing policy debate & Statistical techniques for analyzing housing and neighborhood change.  
 - **Introduction to Statistics for Urban Studies (CRP 1200)** – Statistical foundations for urban and regional studies for undergraduates.  
 
 ## Research Interests
