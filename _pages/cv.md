@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available [here](http://wenzhengli-etal.github.io/files/CV_WenzhengLi.pdf)
+My full CV is available [here](http://wenzhengli-etal.github.io/files/CV_UCLA_WenzhengLi.pdf)
