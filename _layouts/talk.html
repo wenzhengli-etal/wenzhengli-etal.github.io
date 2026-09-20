@@ -35,8 +35,8 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
-
+        {% if page.venue %}<p class="page__meta">{{ page.type | default: "Presentation" }} &middot; <em>{{ page.venue }}</em>{% if page.location %}, {{ page.location }}{% endif %}{% if page.authors %} &middot; {{ page.authors }}{% endif %}</p>{% endif %}
+        {% if page.slides %}<p class="page__meta"><a href="{{ page.slides }}">Download the slides &rsaquo;</a></p>{% endif %}
         </header>
       {% endunless %}
 

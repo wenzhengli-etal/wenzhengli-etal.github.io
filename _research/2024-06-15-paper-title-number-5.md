@@ -4,7 +4,11 @@ collection: research
 date: 2024-05-03
 venue: 'Growth and Change'
 paperurl: 'http://wenzhengli-etal.github.io/files/Li and Schmidt - The spatial‐temporal evolution of urban developmen.pdf'
-citation: 'Li, Wenzheng, and Stephan Schmidt. "The spatial‐temporal evolution of urban development patterns in Chinese cities: Dynamics and interpretations." Growth and Change 55, no. 2 (2024): e12722.' 
+theme: "polycentricity"
+image: "/images/Growth_1.jpg"
+summary: "Traces the spatial structure of 269 Chinese prefectural cities from 2002 to 2019: mega-cities move steadily toward polycentricity, while smaller cities mostly stay monocentric."
+doi: "https://doi.org/10.1111/grow.12722"
+citation: "Li, W., &amp; Schmidt, S. (2024). The spatial-temporal evolution of urban development patterns in Chinese cities: Dynamics and interpretations. <em>Growth and Change</em>, 55(2), e12722."
 ---
 
 <br/><img src='/images/Growth_1.jpg'>

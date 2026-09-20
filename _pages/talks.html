@@ -1,16 +1,33 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p class="wl-intro">
+Conference papers, invited talks, and webinars, most recent first. Slides are linked where available.
+{% if site.talkmap_link == true %} You can also <a href="/talkmap.html">see a map of all the places I've given a talk</a>.{% endif %}
+</p>
 
-{% endif %}
+{% assign talks = site.talks | sort: "date" | reverse %}
+{% assign current_year = "" %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% for post in talks %}
+  {% assign year = post.date | date: "%Y" %}
+  {% if year != current_year %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <p class="wl-year">{{ year }}</p>
+    <ul class="wl-talks">
+    {% assign current_year = year %}
+  {% endif %}
+  <li class="wl-talk">
+    <span class="wl-talk-title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></span>{% if post.slides %} <a class="wl-slides" href="{{ post.slides }}">Slides&nbsp;&rsaquo;</a>{% endif %}
+    <span class="wl-talk-meta">
+      {% if post.authors %}{{ post.authors }}. {% endif %}<em>{{ post.venue }}</em>{% if post.location %}, {{ post.location }}{% endif %}{% if post.date %}, {{ post.date | date: "%B %Y" }}{% endif %}{% if post.type %} &middot; {{ post.type }}{% endif %}
+    </span>
+  </li>
+  {% if forloop.last %}</ul>{% endif %}
 {% endfor %}

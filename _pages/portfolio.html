@@ -1,14 +1,34 @@
 ---
 layout: archive
-title: "Working Project"
+title: "Working Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<p class="wl-intro">
+Work in progress — papers under review, projects in the field, and methods I am currently building out. Drafts are available on request.
+</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign projects = site.portfolio | sort: "order" %}
+{% for post in projects %}
+<div class="wl-proj">
+  {% if post.image %}
+  <div class="wl-proj-thumb"><img src="{{ post.image | prepend: base_path }}" alt=""></div>
+  {% endif %}
+  <div class="wl-proj-body">
+    <p class="wl-proj-title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></p>
+    <p class="wl-proj-meta">
+      {% if post.status %}<span class="wl-tag">{{ post.status }}</span>{% endif %}
+      {% if post.collaborators %}&nbsp; {{ post.collaborators }}{% endif %}
+    </p>
+    {% if post.summary %}<p class="wl-proj-summary">{{ post.summary }}</p>{% endif %}
+    <p class="wl-links">
+      <a href="{{ base_path }}{{ post.url }}">Read more &rsaquo;</a>
+      {% if post.slides %}<a href="{{ post.slides }}">Slides</a>{% endif %}
+      {% if post.interactive %}<a href="{{ post.interactive }}">Interactive figure</a>{% endif %}
+    </p>
+  </div>
+</div>
 {% endfor %}
-

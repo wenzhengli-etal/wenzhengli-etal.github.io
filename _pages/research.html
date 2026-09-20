@@ -1,0 +1,52 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p class="wl-intro">
+My work asks how the spatial organization of cities and city regions shapes environmental, economic, and social outcomes — and how planning institutions mediate that relationship. Papers are grouped below by theme; select a theme to see the studies within it.
+{% if site.author.googlescholar %} A full list is also available on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.{% endif %}
+</p>
+
+{% for theme in site.data.research_themes %}
+  {% assign papers = site.research | where: "theme", theme.key | sort: "date" | reverse %}
+  {% if papers.size > 0 %}
+<details class="wl-theme" open>
+  <summary>
+    <div class="wl-theme-head">
+      <div class="wl-theme-thumb"><img src="{{ theme.image | prepend: base_path }}" alt="{{ theme.title }}"></div>
+      <div class="wl-theme-copy">
+        <div class="wl-theme-title">{{ theme.title }}<span class="wl-chev">&rsaquo;</span></div>
+        <p class="wl-theme-blurb">{{ theme.blurb }}</p>
+        <span class="wl-theme-count">{{ papers.size }} paper{% if papers.size != 1 %}s{% endif %}</span>
+      </div>
+    </div>
+  </summary>
+
+  <ul class="wl-papers">
+    {% for post in papers %}
+    <li class="wl-paper">
+      {% if post.image %}
+      <div class="wl-paper-thumb"><img src="{{ post.image | prepend: base_path }}" alt=""></div>
+      {% endif %}
+      <div class="wl-paper-body">
+        <p class="wl-paper-title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></p>
+        <p class="wl-paper-venue"><em>{{ post.venue }}</em> &middot; {{ post.date | date: "%Y" }}</p>
+        {% if post.summary %}<p class="wl-paper-summary">{{ post.summary }}</p>{% endif %}
+        {% if post.citation %}<p class="wl-cite">{{ post.citation }}</p>{% endif %}
+        <p class="wl-links">
+          <a href="{{ base_path }}{{ post.url }}">Abstract &amp; figures</a>
+          {% if post.paperurl %}<a href="{{ post.paperurl }}">PDF</a>{% endif %}
+          {% if post.doi %}<a href="{{ post.doi }}">Publisher</a>{% endif %}
+        </p>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</details>
+  {% endif %}
+{% endfor %}

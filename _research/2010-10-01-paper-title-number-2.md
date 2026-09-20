@@ -4,7 +4,11 @@ collection: research
 date: 2021-09-01
 venue: 'Journal of Planning Education and Research'
 paperurl: 'http://wenzhengli-etal.github.io/files/JPER.pdf'
-citation: 'Schmidt, S., Li, W., Carruthers, J., & Siedentop, S. (2021). Planning institutions and urban spatial patterns: Evidence from a cross-national analysis. Journal of Planning Education and Research, 0739456X211044203.'
+theme: "institutions"
+image: "/images/JPER.jpg"
+summary: "Builds a composite index of national planning frameworks and links institutional design to how compact metropolitan development turns out."
+doi: "https://doi.org/10.1177/0739456X211044203"
+citation: "Schmidt, S., Li, W., Carruthers, J., &amp; Siedentop, S. (2021). Planning institutions and urban spatial patterns: Evidence from a cross-national analysis. <em>Journal of Planning Education and Research</em>. Advance online publication."
 ---
 
 <br/><img src='/images/JPER.jpg'>

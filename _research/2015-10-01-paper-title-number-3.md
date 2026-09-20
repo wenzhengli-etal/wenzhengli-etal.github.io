@@ -3,8 +3,12 @@ title: "Can polycentric urban development simultaneously achieve both economic g
 collection: research
 venue: 'Environment and Planning A: Economy and Space'
 paperurl: 'http://wenzhengli-etal.github.io/files/EPA.pdf'
-citation: 'Li, W., Schmidt, S., & Siedentop, S. (2023). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. Environment and Planning A: Economy and Space, 0308518X231191943.'
 date: 2023-08-29
+theme: "polycentricity"
+image: "/images/EPA.jpg"
+summary: "Tests whether polycentric development can deliver growth and equity at once in German city regions. It narrows regional disparities, but the peripheries' gains cancel out the cores' losses."
+doi: "https://doi.org/10.1177/0308518X231191943"
+citation: "Li, W., Schmidt, S., &amp; Siedentop, S. (2023). Can polycentric urban development simultaneously achieve both economic growth and regional equity? A multi-scale analysis of German regions. <em>Environment and Planning A: Economy and Space</em>. Advance online publication."
 ---
 
 <br/><img src='/images/EPA.jpg'>

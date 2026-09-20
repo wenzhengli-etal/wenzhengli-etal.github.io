@@ -4,7 +4,11 @@ collection: research
 date: 2024-01-29
 venue: 'Environment and Planning B: Urban Analytics and City Science'
 paperurl: 'http://wenzhengli-etal.github.io/files/EPB.pdf'
-citation: 'Li, W., & Schmidt, S. (2024). Can spatial patterns mitigate the urban heat island effect? Evidence from German metropolitan regions. Environment and Planning B: Urban Analytics and City Science, 23998083241227500.' 
+theme: "environment"
+image: "/images/UHI.jpg"
+summary: "Doubling the degree of polycentricity cuts daytime urban heat by about 10% and night-time heat by about 25% in large German city regions &mdash; and many small dispersed parks cool better than one large one."
+doi: "https://doi.org/10.1177/23998083241227500"
+citation: "Li, W., &amp; Schmidt, S. (2024). Can spatial patterns mitigate the urban heat island effect? Evidence from German metropolitan regions. <em>Environment and Planning B: Urban Analytics and City Science</em>. Advance online publication."
 ---
 
 <br/><img src='/images/UHI.jpg'>

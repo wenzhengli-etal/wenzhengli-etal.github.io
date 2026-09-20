@@ -4,7 +4,11 @@ collection: research
 date: 2024-06-13
 venue: 'Habitat International'
 paperurl: 'http://wenzhengli-etal.github.io/files/Schmidt - 2024 - Place attachment, regional identity and perception.pdf'
-citation: 'Schmidt, S., Nuhu, S., Thomas, R., & Li, W. (2024). Place attachment, regional identity and perceptions of urbanization in Moshi, Tanzania. Habitat International, 150, 103132.' 
+theme: "globalsouth"
+image: "/images/HI.jpg"
+summary: "A survey of some 700 residents around Moshi, Tanzania, finding that place attachment falls from rural to urban locations and rises among those who see the city as a threat."
+doi: "https://doi.org/10.1016/j.habitatint.2024.103132"
+citation: "Schmidt, S., Nuhu, S., Thomas, R., &amp; Li, W. (2024). Place attachment, regional identity and perceptions of urbanization in Moshi, Tanzania. <em>Habitat International</em>, 150, 103132."
 ---
 
 <br/><img src='/images/HI.jpg'>
