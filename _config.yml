@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile1.jpg"
   name             : "Wenzheng Li, Ph.D."
-  pronouns         : # example: "she/her"  
-  bio              : "Visiting Lecturer; wl563@cornell.edu"
-  location         : "Ithaca, New York"
-  employer         : "Cornell University"
+  pronouns         : # example: "He/Him"  
+  bio              : "Postdoctoral Research Fellow; wenzheng.li@ubc.ca"
+  location         : "Vancouver, British Columbia"
+  employer         : "University of British Columbia"
   uri              : # URL
-  email            : "wl563@cornell.edu" 
+  email            : "wenzheng.li@ubc.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

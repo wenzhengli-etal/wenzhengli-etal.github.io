@@ -243,3 +243,17 @@
     }
   }
 }
+
+/* Reduce font size for research paper titles */
+.page-research h3, 
+.page-research a {
+    font-size: 14px !important; /* Force smaller size */
+    font-weight: normal !important;
+    line-height: 1.5;
+}
+
+/* Ensure links match body text style */
+.page-research a {
+    color: inherit !important;  /* Make links match text color */
+    text-decoration: underline; /* Keep underlined */
+}
