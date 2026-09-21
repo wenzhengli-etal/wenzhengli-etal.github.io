@@ -2,20 +2,20 @@
 # field in the front matter of each file in _research/.
 - key: environment
   title: "Urban form, climate, and environmental quality"
-  image: /images/research/theme-environment.jpg
+  image: /images/research/theme-environment-v2.jpg
   blurb: "How the physical configuration of city regions — density, fragmentation, greenspace, and the distribution of centers — shapes ambient heat and air pollution, and which spatial strategies actually deliver environmental gains."
 
 - key: polycentricity
   title: "Polycentricity and regional development"
-  image: /images/research/theme-polycentricity.jpg
+  image: /images/research/theme-polycentricity-v2.jpg
   blurb: "Measuring how urban spatial structure evolves, and testing whether polycentric development delivers on its dual promise of economic productivity and a more balanced distribution of growth."
 
 - key: institutions
   title: "Planning institutions, governance, and public space"
-  image: /images/research/theme-institutions.jpg
+  image: /images/research/theme-institutions-v2.jpg
   blurb: "How planning frameworks and the fragmentation of local government shape what gets built and what gets protected — from cross-national planning systems to metropolitan open space and downtown pedestrian streets."
 
 - key: globalsouth
   title: "Urbanization and place in the Global South"
-  image: /images/research/theme-globalsouth.jpg
+  image: /images/research/theme-globalsouth-v2.jpg
   blurb: "Adapting urban spatial analysis to data-scarce, rapidly urbanizing settings in Sub-Saharan Africa, and listening to how residents on the peri-urban fringe experience the city arriving around them."
