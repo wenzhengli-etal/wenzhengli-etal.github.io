@@ -1,0 +1,31 @@
+---
+layout: archive
+title: "Media & Public Engagement"
+permalink: /media/
+redirect_from:
+  - /blog/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p class="wl-intro">
+News coverage of my research and pieces I have written for a wider audience. Each entry links out to where it was published, and to the study behind it.
+</p>
+
+{% for post in site.data.media %}
+<div class="wl-post">
+  {% if post.image %}
+  <div class="wl-post-thumb"><img src="{{ post.image | prepend: base_path }}" alt=""></div>
+  {% endif %}
+  <div class="wl-post-body">
+    <p class="wl-post-title"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    <p class="wl-post-meta">{% if post.kind %}<span class="wl-tag">{{ post.kind }}</span>&nbsp; {% endif %}{{ post.outlet }}{% if post.date %} &middot; {{ post.date | date: "%B %Y" }}{% endif %}{% if post.authors %} &middot; {{ post.authors }}{% endif %}</p>
+    {% if post.excerpt %}<p class="wl-post-excerpt">{{ post.excerpt }}</p>{% endif %}
+    <p class="wl-links">
+      <a href="{{ post.url }}">Read the piece &rsaquo;</a>
+      {% if post.paper %}<a href="{{ base_path }}{{ post.paper }}">Related paper &rsaquo;</a>{% endif %}
+    </p>
+  </div>
+</div>
+{% endfor %}

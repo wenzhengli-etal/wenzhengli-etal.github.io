@@ -3,6 +3,7 @@ title: "The dynamic adjustment of population and employment: Evidence from Chine
 collection: portfolio
 order: 3
 status: "Working paper"
+collaborators: "With John Carruthers"
 image: "/images/PIRS.jpg"
 summary: "Do people move for jobs, or do jobs move for people? A regional adjustment model across Chinese prefectural regions for 2002&ndash;2010 and 2010&ndash;2019 finds the balance shifting decisively toward amenities and skilled labor."
 ---
