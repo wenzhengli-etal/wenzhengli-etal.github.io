@@ -10,6 +10,16 @@
   paper: /research/2026-02-20-paper-title-number-9/
   excerpt: "A short piece for Urban Affairs Review on what municipal fragmentation does to metropolitan open space. More local governments means more small neighborhood parks within a 10-minute walk of where people live &mdash; and fewer of the large, regionally significant ones that no single jurisdiction has an incentive to protect."
 
+- title: "城乡融合研究（URI）——多中心城市发展能否同时实现经济增长和区域公平？德国地区的多尺度分析"
+  outlet: "城乡发展研学 (Urban-Rural Development Research), WeChat"
+  kind: "Chinese-language coverage"
+  date: 2024-04-15
+  url: "https://mp.weixin.qq.com/s/U4hx_dXWu2UvHcKYELIg0Q"
+  image: /images/EPA.jpg
+  authors: "By 爱我城乡"
+  paper: /research/2015-10-01-paper-title-number-3/
+  excerpt: "A Chinese-language feature in the <em>Urban-Rural Integration Research</em> series on our Environment and Planning A study of German city regions. Polycentric development narrows regional disparities but does not raise overall productivity: gains in the peripheries are offset by losses in the urban cores."
+
 - title: "Multiple city hubs, dispersed parks keep metro areas cooler"
   outlet: "Cornell Chronicle"
   kind: "News coverage"
@@ -19,11 +29,3 @@
   authors: "By James Dean"
   paper: /research/2024-02-17-paper-title-number-4/
   excerpt: "Cornell Chronicle feature on our study of 50 German metropolitan regions: city regions with several centers and scattered green space run cooler than single-hub ones, and many small parks do more to cool a region than one large park &mdash; &ldquo;multiple smaller green spaces are able to more effectively reduce and break up contiguous urban areas.&rdquo;"
-
-- title: "多中心城市发展能否同时实现经济增长和区域公平？德国地区的多尺度分析"
-  outlet: "WeChat"
-  kind: "Chinese-language coverage"
-  url: "https://mp.weixin.qq.com/s/U4hx_dXWu2UvHcKYELIg0Q"
-  image: /images/EPA.jpg
-  paper: /research/2015-10-01-paper-title-number-3/
-  excerpt: "A Chinese-language feature on our Environment and Planning A study of German city regions. Polycentric development narrows regional disparities but does not raise overall productivity: gains in the peripheries are offset by losses in the urban cores."
