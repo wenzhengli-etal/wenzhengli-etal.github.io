@@ -5,26 +5,26 @@ order: 2
 status: "In progress"
 authors: "Wenzheng Li, Julia Harten, Andrew Yan, Christos Thrampoulidis"
 presented: "Presented at ACSP 2026"
-image: "/images/ACSP2026_human_input.jpg"
+image: "/images/ACSP2026_accuracy_ladder.jpg"
 slides: "/files/ACSP2026_human_input_LLM.pdf"
-summary: "Large language models can read public comments at scale, but how much human work does a trustworthy result actually require? Using 350 Vancouver rezoning projects, we measure the accuracy bought by each additional hour of human effort &mdash; and find that writing definitions is the best buy, while prompt refinement is the worst."
+summary: "When we use large language models to read public input, where does human input actually matter &mdash; and what is left after we have done our best? We grow one prompt in four cumulative stages across 350 Vancouver rezoning projects, and at each stage measure what an hour of human work bought in accuracy."
 ---
 
-Planners increasingly use language models to read public input at a scale no team could handle by hand. What stays hidden is the human work behind the output: how much of it a credible result needs, where it pays off, and when more of it stops helping. To the planner, the process is still a black box.
+Large language models changed the economics of reading public input. Conventional NLP needs task-specific training and struggles with nuanced meaning; an LLM takes instructions in plain language, needs few labelled examples, and can tell you why it gave a label. But its output is highly sensitive to the prompt, and human participation helps most on complex, planning-specific tasks. The problem is that, to the planner, the process is still a black box: we cannot tell when a result is credible or how much human input it needed.
 
-This project opens it. We assemble the public record of 350 housing rezoning projects in Vancouver from 2018 to 2025 — online public comments, diarized public hearing transcripts, and staff referral reports — and run three tasks against a human-coded gold standard:
+Three things are missing. First, the marginal return of human input: at which stage, and in what form, does an hour of human work change the result? Second, whether that return depends on the task and on the kind of category. And third, the residual: what is still wrong after the last stage, and is it explainable?
 
-- **Topic classification** — which of 14 topics (affordability, traffic, and so on) a comment raises;
-- **Sentiment** — a speaker's overall stance toward the application;
-- **Named entity recognition** — who is speaking, by role and by name.
+The data come from 350 housing rezoning projects in Vancouver, 2018 to 2025, read through three public records: online public comments, public hearing transcripts, and staff referral reports. We take three tasks — topic classification on online comments, sentiment analysis on hearing speakers, and named entity recognition on hearing transcripts. They cover both things an LLM does with text, classifying and extracting, and inside each task we separate categories that need inference and judgement, which we call **reasoning-based**, from categories that an explicit cue in the text identifies, which we call **mention-based**.
 
-Each task is built up in four cumulative stages, from bare category names (D0) through definitions (D1), annotated examples (D2), and refinement on a development set (D3). Because every stage is costed in human hours, each one can be priced: not just whether accuracy improves, but what the improvement costs.
+Human input enters in four cumulative stages, each keeping everything from the one before. At D0 the researcher only names the categories; at D1 writes a definition and a scope rule for each; at D2 selects and annotates positive and negative examples; at D3 labels a development set, reviews the model's errors, rewrites rules and boundary cases, and repeats. At every stage the model labels every unit and is scored against held-out human gold, so each stage can be priced in hours as well as in accuracy.
 
 <figure class="wl-figure">
-  <img src="/images/ACSP2026_human_input.jpg" alt="Left: macro-F1 against cumulative human hours for three tasks. Right: F1 points gained per hour at each stage.">
-  <figcaption>Accuracy against cumulative human hours (left) and the return of each stage in F1 points per hour (right). One point = 0.01 F1.</figcaption>
+  <img src="/images/ACSP2026_accuracy_ladder.jpg" alt="Accuracy along the four-stage ladder for three tasks, with per-category trajectories split into mention-based and reasoning-based.">
+  <figcaption>Top: gold macro-F1 at each stage of the ladder (bars = 95% bootstrap intervals). Bottom: gold F1 per category, with reasoning-based categories in blue and mention-based in red.</figcaption>
 </figure>
 
-Three results stand out. Human input raises accuracy in every task, but by very different amounts: from D0 to D3, topic classification gains 0.40 F1, sentiment 0.11, and named entity recognition only 0.06. Within each task, the categories that require judgement start lower and move most, while those settled by an explicit cue in the text begin high and improve little. And the stages are not equally worth the time — writing definitions is the best buy in every task, examples pay for the classification tasks but not for extraction, and refinement costs the most while returning the least.
+Human input raises accuracy in every task, but by very different amounts. From D0 to D3, macro-F1 rises by 0.40 on topic classification, from 0.43 to 0.83; by 0.11 on sentiment; and by only 0.06 on named entity recognition, which was nearly as good at the first stage as at the last. Within each task, the reasoning-based categories start lower and move the most, while the mention-based ones are high from the start — on sentiment, support and oppose barely move, and neutral and mixed are where the action is.
 
-The practical implication is that effort should be planned by category rather than spread evenly: always write the definitions, add examples where the task is classification, and reserve refinement for the categories that genuinely turn on judgement. A ceiling remains in every task, which is the subject of the error analysis.
+Priced in hours, the stages rank clearly. Definitions are the best buy in every task. Examples pay for classification but not for extraction, where they return nothing. Refinement costs the most and returns the least: on topics it took 63 hours for 8 points, and in every task it sits below break-even. Splitting the same hours by category group shows that the reasoning-based groups absorb more of the hours and still end lower — so the practical unit for planning human hours is the category, not the task.
+
+What survives at D3 is not random. A blinded audit of every remaining error finds that most are deterministic: on sentiment and named entity recognition the convention decides the case and the model simply did not apply it, while on topics 44% are gaps in the prompt's own wording, so it is the codebook that has to change. Genuinely ambiguous cases are few. The residual can be explained, and most of it can be fixed.
