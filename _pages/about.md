@@ -15,10 +15,10 @@ My research rests at the intersection of housing development analytics, regional
 
 ### Housing approval and AI at SCARP
 
-At SCARP I work in the research group led by [Julia Harten](https://scarp.ubc.ca/directory/julia-harten) (School of Community and Regional Planning) and [Christos Thrampoulidis](https://ece.ubc.ca/christos-thrampoulidis/) (Department of Electrical and Computer Engineering):
+At SCARP I work in the research group led by Julia Harten (School of Community and Regional Planning) and [Christos Thrampoulidis](https://ece.ubc.ca/christos-thrampoulidis/) (Department of Electrical and Computer Engineering):
 
 - **Wenzheng Li**, Postdoctoral Research Fellow
-- **[Julia Harten](https://scarp.ubc.ca/directory/julia-harten)**, Assistant Professor
+- **Julia Harten**, Assistant Professor
 - **[Christos Thrampoulidis](https://ece.ubc.ca/christos-thrampoulidis/)**, Associate Professor
 
 Together we examine the housing approval process in Vancouver and across Canada by analyzing council debates and public hearings using AI and data analytics, with a focus on how arguments, narratives, comments, and community participation influence housing development decisions. My work in the group is funded by the Canada Postdoctoral Research Award (2026-2028). Our current projects include: 
