@@ -1,9 +1,10 @@
 ---
 title: "How do people talk about new housing? Large language models and city council records in Vancouver, Canada"
 collection: portfolio
-order: 2
+order: 1
 status: "In progress"
-collaborators: "With Julia Harten"
+authors: "Julia Harten, Wenzheng Li, Christos Thrampoulidis"
+presented: "Presented at ICUA 2026"
 image: "/images/Vancouver_housing.jpg"
 slides: "/files/ICUA2026_Vancouver_housing_LLM.pdf"
 summary: "Rezoning leaves a long paper trail &mdash; online feedback, staff referral reports, public hearing transcripts, Council decisions. This project reads that record with large language models to trace how housing supply narratives are made, contested, and reshaped as British Columbia's approval reforms take hold."

@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <p class="wl-intro">
-Work in progress — papers under review, projects in the field, and methods I am currently building out. Drafts are available on request.
+Work in progress — papers under review, projects in the field, and methods I am currently building out. These currently span the housing approval process in Vancouver, urbanization and spatial structure in Sub-Saharan African cities and regions, and Chinese regional growth dynamics. Drafts are available on request.
 </p>
 
 {% assign projects = site.portfolio | sort: "order" %}
@@ -21,7 +21,7 @@ Work in progress — papers under review, projects in the field, and methods I a
     <p class="wl-proj-title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></p>
     <p class="wl-proj-meta">
       {% if post.status %}<span class="wl-tag">{{ post.status }}</span>{% endif %}
-      {% if post.collaborators %}&nbsp; {{ post.collaborators }}{% endif %}
+      {% if post.authors %}&nbsp; {{ post.authors }}{% endif %}{% if post.presented %}&nbsp; &middot; {{ post.presented }}{% endif %}
     </p>
     {% if post.summary %}<p class="wl-proj-summary">{{ post.summary }}</p>{% endif %}
     <p class="wl-links">

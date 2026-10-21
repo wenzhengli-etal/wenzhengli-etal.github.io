@@ -13,13 +13,23 @@ I am a Postdoctoral Research Fellow in the School of Community and Regional Plan
 
 My research rests at the intersection of housing development analytics, regional planning and governance, and sustainable urban form. 
 
-At SCARP, I examine housing approval process in Vancouver and across Canada by analyzing council debates and public hearings using AI and data analytics, with a focus on how arguments, narratives, comments, and community participation influence housing development decisions. This research is funded by the Canada Postdoctoral Research Award (2026-2028). My current projects include: 
+### Housing approval and AI at SCARP
+
+At SCARP I work in the research group led by [Julia Harten](https://scarp.ubc.ca/directory/julia-harten) (School of Community and Regional Planning) and [Christos Thrampoulidis](https://ece.ubc.ca/christos-thrampoulidis/) (Department of Electrical and Computer Engineering):
+
+- **Wenzheng Li**, Postdoctoral Research Fellow
+- **[Julia Harten](https://scarp.ubc.ca/directory/julia-harten)**, Assistant Professor
+- **[Christos Thrampoulidis](https://ece.ubc.ca/christos-thrampoulidis/)**, Associate Professor
+
+Together we examine the housing approval process in Vancouver and across Canada by analyzing council debates and public hearings using AI and data analytics, with a focus on how arguments, narratives, comments, and community participation influence housing development decisions. My work in the group is funded by the Canada Postdoctoral Research Award (2026-2028). Our current projects include: 
 
 - Human in the Loop or Out? Evaluating Human Involvement in Housing Approval Process in Vancouver using a Hybrid AI-Expert Pipeline 
 - Who Wants What Where and Why? Leveraging AI and City Council Records to Analyze Housing Supply Narratives in Vancouver, Canada (Under Review)
 - Localism and housing opposition: comparing local and nonlocal responses to proposed housing development in the City of Vancouver.
 - Housing opposition across participation channels: comparing language and reasoning in Online comments and in-person public hearings
 - Councilor rhetoric and voting behavior: examining the roles of public backlash, electoral pressures, and party affiliation
+
+### Regional planning, governance, and spatial structure
 
 Additionally, I am interested in regional-scale land use planning and governance, with a particular interest in how planning institutions, regulatory environments, and land use policies can effectuate more sustainable and equitable spatial patterns in both developed and developing countries. My dissertation studied regional spatial structure, with an emphasis on the evolutionary trajectories of polycentric urban forms and policy, and their impacts on 1) economic development & regional disparities, 2) quality of life, commuting patterns, and accessibility to public services, 3) environmental sustainability, including the urban heat island effect and air pollution. My current projects on this track include:
 

@@ -1,9 +1,9 @@
 ---
 title: "Polycentric spatial structure in German state and regional spatial plans: An LLM-assisted census of what is articulated, why, and how"
 collection: portfolio
-order: 1
+order: 4
 status: "In progress"
-collaborators: "With Stephan Schmidt"
+authors: "Wenzheng Li, Stephan Schmidt"
 image: "/images/NLP_polycentric_clauses.png"
 interactive: "/files/polycentricity_term_network.html"
 summary: "Polycentricity is one of the most frequently invoked goals in German spatial planning &mdash; but what exactly do plans commit to, on what grounds, and through which instruments? This project reads the full corpus of state (<em>Landesentwicklungspl&auml;ne</em>) and regional (<em>Regionalpl&auml;ne</em>) plans with a large language model, extracting and classifying every clause that invokes a polycentric spatial structure."

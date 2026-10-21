@@ -1,9 +1,9 @@
 ---
 title: "Vertical price curves in the Beijing residential housing market"
 collection: portfolio
-order: 4
+order: 6
 status: "Working paper"
-collaborators: "With Ziye Zhang and Yan Wu"
+authors: "Wenzheng Li, Ziye Zhang, Yan Wu"
 image: "/images/JRS.jpg"
 summary: "Using roughly 600,000 resale records from 2012 to 2019, this paper measures the ground-floor premium and top-floor discount in Beijing, and shows how both flip with building height &mdash; and with whether the building has an elevator."
 ---
