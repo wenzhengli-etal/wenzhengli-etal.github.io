@@ -1,9 +1,9 @@
 ---
-title: "The dynamic adjustment of population and employment: Evidence from Chinese prefectural regions"
+title: "Population and Employment Dynamics in China: Evidence of a Perfect Storm Gathering"
 collection: portfolio
 order: 7
 status: "Working paper"
-authors: "Wenzheng Li, John Carruthers"
+authors: "John Carruthers, Wenzheng Li"
 image: "/images/PIRS_employment_maps.jpg"
 summary: "Do people move for jobs, or do jobs move for people? A regional adjustment model across Chinese city-regions, estimated separately for two intercensal periods, finds the balance shifting decisively toward amenities and skilled labor."
 ---
