@@ -1,7 +1,7 @@
 ---
 title: "The dynamic adjustment of population and employment: Evidence from Chinese prefectural regions"
 collection: portfolio
-order: 5
+order: 7
 status: "Working paper"
 authors: "Wenzheng Li, John Carruthers"
 image: "/images/PIRS_employment_maps.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Polycentric spatial structure in German state and regional spatial plans: An LLM-assisted census of what is articulated, why, and how"
 collection: portfolio
-order: 4
+order: 6
 status: "In progress"
 authors: "Wenzheng Li, Stephan Schmidt"
 image: "/images/NLP_polycentric_clauses.png"

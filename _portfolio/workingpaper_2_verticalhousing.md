@@ -1,7 +1,7 @@
 ---
 title: "Vertical price curves in the Beijing residential housing market"
 collection: portfolio
-order: 6
+order: 8
 status: "Working paper"
 authors: "Wenzheng Li, Ziye Zhang, Yan Wu"
 image: "/images/JRS.jpg"
