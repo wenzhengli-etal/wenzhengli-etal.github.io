@@ -5,22 +5,43 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h2>My Teaching Portfolio</h2>
-<p>Below are the courses I have taught or am currently teaching:</p>
+{% include base_path %}
 
-<ul>
-  {% for post in site.teaching reversed %}
-    <li>
-      <h3><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
-      <p>{{ post.type }} - {{ post.location }}</p>
+<p class="wl-intro">
+I teach quantitative and spatial analysis in planning — statistics, GIS, urban data science, and critical cartography — at both the undergraduate and graduate level. My approach pairs methods with the planning questions that motivate them, and increasingly brings emerging tools (GeoAI, remote sensing, machine learning, LLMs) into the classroom. Syllabi are linked below.
+</p>
 
-      {% if post.website %}
-        <a href="{{ post.website }}" target="_blank">Course Website</a>
-      {% endif %}
-
-      {% if post.syllabus %}
-        | <a href="{{ post.syllabus }}" target="_blank">Syllabus (PDF)</a>
-      {% endif %}
-    </li>
+<p class="wl-year">Courses taught as instructor</p>
+<ul class="wl-papers" style="padding-left:0; border-left:none;">
+  {% for c in site.data.teaching.instructor %}
+  <li class="wl-paper" style="display:block;">
+    <p class="wl-paper-title" style="margin-bottom:0.2em;">
+      {% if c.page %}<a href="{{ base_path }}{{ c.page }}">{{ c.code }}: {{ c.name }}</a>{% else %}{{ c.code }}: {{ c.name }}{% endif %}
+    </p>
+    <p class="wl-paper-venue">
+      {{ c.term }} &middot; {{ c.role }} &middot; {{ c.level }} &middot; {{ c.enrollment }}{% if c.format %} &middot; {{ c.format }}{% endif %}
+    </p>
+    {% if c.description %}<p class="wl-paper-summary">{{ c.description }}</p>{% endif %}
+    {% if c.repo or c.page %}
+    <p class="wl-links">
+      {% if c.repo %}<a href="{{ c.repo }}">Syllabus &amp; course materials &rsaquo;</a>{% endif %}
+      {% if c.page %}<a href="{{ base_path }}{{ c.page }}">Full description</a>{% endif %}
+    </p>
+    {% endif %}
+  </li>
   {% endfor %}
 </ul>
+
+<p class="wl-year">Courses assisted as teaching assistant</p>
+<ul class="wl-talks">
+  {% for c in site.data.teaching.ta %}
+  <li class="wl-talk">
+    <span class="wl-talk-title">{{ c.code }}: {{ c.name }}</span>
+    <span class="wl-talk-meta">{{ c.term }} &middot; {{ c.role }} &middot; {{ c.level }} &middot; {{ c.enrollment }}</span>
+  </li>
+  {% endfor %}
+</ul>
+
+<p class="wl-intro" style="margin-top:2em; font-size:0.86em;">
+All courses were taught in the Department of City and Regional Planning, Cornell University.
+</p>
