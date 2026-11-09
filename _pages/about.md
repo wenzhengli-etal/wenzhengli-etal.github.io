@@ -11,7 +11,7 @@ I am a Postdoctoral Research Fellow in the School of Community and Regional Plan
 
 ## Research Interests
 
-My research rests at the intersection of housing development analytics, regional planning and governance, and sustainable urban form. 
+My research has two main directions. The more recent is housing planning and policy, with a focus on the housing approval process using AI. The longer-standing is regional planning, land use planning and governance, and regional science. 
 
 At SCARP, I work with Julia Harten and Christos Thrampoulidis. Together we examine the housing approval process in Vancouver and across Canada by analyzing council debates and public hearings using AI and data analytics, with a focus on how arguments, narratives, comments, and community participation influence housing development decisions. This research is funded by the Canada Postdoctoral Research Award (2026-2028). Our current projects include: 
 
