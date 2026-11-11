@@ -6,7 +6,7 @@ status: "In progress"
 authors: "Wenzheng Li, Julia Harten, Andrew Yan, Christos Thrampoulidis"
 presented: "Presented at ACSP 2026"
 image: "/images/ACSP2026_accuracy_ladder.jpg"
-slides: "/files/ACSP2026_human_input_LLM.pdf"
+slides: "/files/ACSP2026_When_Does_Human_Input_Matter.pdf"
 summary: "When we use large language models to read public input, where does human input actually matter &mdash; and what is left after we have done our best? We grow one prompt in four cumulative stages across 350 Vancouver rezoning projects, and at each stage measure what an hour of human work bought in accuracy."
 ---
 
